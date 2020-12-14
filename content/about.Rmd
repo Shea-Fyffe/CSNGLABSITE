@@ -1,0 +1,16 @@
+---
+title: "About Our Lab"
+author: "Colleen Gerrity and Matthew Olimb"
+date: "12/7/2020"
+output: "html_document"
+---
+
+Description of lab goes here.
+ 
+---
+
+## Lab Announcements 
+
+- Announcement 1
+
+- Announcement 2
