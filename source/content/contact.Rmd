@@ -1,0 +1,23 @@
+---
+title: "Contact"
+author: "Colleen Gerrity and Matthew Olimb"
+date: "12/13/2020"
+output: "html_document"
+---
+
+## Principle Investigator 
+### James C. Thompson
+Email: [jthompsz [at] gmu.edu](mailto:jthompsz@gmu.edu)
+
+---
+
+## Lab Manager 
+### Lindsay S. Shaffer
+Email: [lshaffe6 [at] gmu.edu](mailto:lshaffe6@gmu.edu)
+
+---
+
+George Mason University
+David King Hall, Room 2086
+4400 University Drive, 3F5
+Fairfax, VA 22030

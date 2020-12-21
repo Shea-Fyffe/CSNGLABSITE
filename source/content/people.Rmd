@@ -1,0 +1,151 @@
+---
+title: "Lab Members"
+author: "Colleen Gerrity and Matthew Olimb"
+date: "12/7/2020"
+output: "html_document"
+---
+
+```{css, echo = FALSE}
+img {
+  width: 156px;
+  height: 196px;
+}
+```
+
+## Principle Investigator
+
+#### Dr. James C Thompson 
+
+![](/./people_files/JTHS.png)
+
+Dr Thompson is an Associate Professor in the Department of Psychology at GMU and is a member of the Cognitive and Behavioral Neuroscience Graduate Program. He is Scientific Director of GMU's MRI Core Facility and a co-Deputy Director of CASBBI. Dr Thompson received his PhD in Cognitive Neuroscience from the Brain Sciences Institute at Swinburne University in Australia, followed by a postdoctoral fellowship in the Department of Radiology at West Virginia University. He joined the George Mason faculty in 2006.
+
+[Curriculum Vitae](link)
+
+---
+
+## Graduate Research Assistants
+
+#### Lindsay S Schaffer
+![](/./people_files/LSHS.jpg)
+
+Ms. Lindsay Shaffer is a third year doctoral student in the Department of Psychology's Cognitive & Behavioral Neuroscience program at George Mason University. Lindsay's PhD advisor is Dr. James Thompson and is a member of the Computational Social Neuroscience Group (CSNG). She is a Fellow of the National Science Foundation Research Traineeship (NRT) through the Center for Adaptive Systems of Brain-Body Interactions (CASBBI).
+
+Currenty, Lindsay's research focuses on how sensory and value information independently contributes to reward representations and how reward representations are impaired in idiopathic psychotic disorders such as schizophrenia. Lindsay's research incorporates behavioral paradigms, computational modeling, and imaging techniques (e.g., fMRI, EEG). As a part of the CASBBI NRT, Lindsay is collaborating with members from the S.T.A.R. Lab and the Biomedical Imaging Lab to develop techniques to remotely measure movement and non-movement symptoms in Parkinson's disease."
+
+[Shaffer LS, Schneider JT, Thompson JC. Sensory and value representations in psychiatric diseases. 2020. (in preparation)]() | Email: [lshaffe6 [at] gmu.edu](mailto:lshaffe6@gmu.edu)
+
+#### Morgan DeHart
+![](/./people_files/MODE.png)
+
+"biosketch and research interests"
+
+[publication to be added]() | Email: [at] gmu.edu
+
+#### Eslam Hassan
+
+![](/./people_files/EHHS.jpg) 
+
+Ms. Hassan's previous work involved investigating the underlying neural circuits in reward processing, specifically in social reward. Current research involves evaluating the levels of social isolation and loneliness in college students during the COVID-19 pandemic and deciphering if they are possible aversive states for negative behavior. Her general research interests are focused in learning and memory in students, specifically the differences between memory retrieval and retention, and the relationships between emotion and reasoning and how genetic differences hold an influence in decision-making. She also has a love of biological sciences beyond psychology, specifically human anatomy and physiology.
+ 
+[publication to be added]() | Email: [ehassan2 [at] gmu.edu](mailto:ehassan2@gmu.edu)
+
+#### Isabella Lalena
+
+![](/./img/small_Image-Coming-Soon.jpg)
+
+ "biosketch and research interests"
+
+[publication to be added]() | Email: [at] gmu.edu
+
+#### Vjosa Poshka
+
+![](/./img/small_Image-Coming-Soon.jpg)
+[publication to be added]() | Email: [vposhka [at] gmu.edu](mailto:vposhka@gmu.edu)
+
+ "biosketch and research interests"
+
+#### Egette Indelele
+
+![](/./people_files/EEHS.JPG)
+
+ "biosketch and research interests"
+
+[publication to be added]() | Email: [at] gmu.edu
+
+---
+
+## Undergraduate Research Assisants
+
+#### Holly Crowder
+
+![](/./img/small_Image-Coming-Soon.jpg) 
+
+"biosketch and research interests"
+
+[LinkedIn]()
+
+#### Jonathan Thore Schneider
+
+![](/./img/small_Image-Coming-Soon.jpg)
+
+"biosketch and research intersts"
+
+[LinkedIn]()
+
+---
+
+## Alumni
+
+#### R.A. Basil
+
+*headshot
+
+[Published at GMU]() | [linkedIn]()
+
+#### W. Baccus
+
+*headshot
+
+[Published at GMU]() | [linkedIn]()
+
+#### S.L. Dziura
+
+*headshot
+
+[Published at GMU]() | [linkedIn]()
+
+#### M.L. Westewater
+
+*headshot
+
+[Published at GMU]() | [linkedIn]()
+
+#### E.J Ploran
+
+*headshot
+
+[Published at GMU]() | [linkedIn]()
+
+---
+
+## Collaborators
+
+#### Martin Weiner
+
+[Collaborated work]() | [Web site](https://starlabgmu.weebly.com/)
+
+#### Tara Chaplain
+
+[Collaborated work]() | [Web site]()
+
+#### Sara Fischer
+
+[Collaborated work]() | [Web site](https://psychology.gmu.edu/people/snowaczy)
+
+#### Craig McDonnald
+
+[Collaborated work]() | [Web site](https://cbn.gmu.edu/research/cbn-research-groups/mcdonald-lab)
+
+
+
