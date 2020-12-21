@@ -7,13 +7,13 @@ output: "html_document"
 
 ## Principle Investigator 
 ### James C. Thompson
-Email: jthompsz [at] gmu.edu
+Email: [jthompsz [at] gmu.edu](mailto:jthompsz@gmu.edu)
 
 ---
 
 ## Lab Manager 
 ### Lindsay S. Shaffer
-Email: lshaffe6 [at] gmu.edu
+Email: [lshaffe6 [at] gmu.edu](mailto:lshaffe6@gmu.edu)
 
 ---
 

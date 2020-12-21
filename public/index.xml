@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lab Website</title>
-    <link>https://example.com/index.html</link>
-    <description>Recent content on Lab Website</description>
+    <title>Computational Social Neuroscience Group</title>
+    <link>/</link>
+    <description>Recent content on Computational Social Neuroscience Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Our Lab</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to the Computational Social Neuroscience Group at George Mason University.
+We are a multidisciplinary group with focuses in neuroscience, psychology, and programming. We employ many methods such as online research, Electroencepolgraphy, and Functional Magnetic Resonance Imaging in our research. Our lab is made up of a range of diverse thinkers from our Principle Investigator, Jim Thompson, to our ever friendly and helpful Research Assistants. At CSNG we value:The core values of the CSNG are</description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/community/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Principle InvestigatorJames C. ThompsonEmail: jthompsz [at] gmu.edu
+Lab ManagerLindsay S. ShafferEmail: lshaffe6 [at] gmu.edu
+George Mason UniversityDavid King Hall, Room 20864400 University Drive, 3F5Fairfax, VA 22030
+</description>
+    </item>
+    
+    <item>
+      <title>Lab Members</title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/</guid>
+      <description>img {width: 156px;height: 196px;}Principle InvestigatorDr. James C ThompsonDr Thompson is an Associate Professor in the Department of Psychology at GMU and is a member of the Cognitive and Behavioral Neuroscience Graduate Program. He is Scientific Director of GMU’s MRI Core Facility and a co-Deputy Director of CASBBI. Dr Thompson received his PhD in Cognitive Neuroscience from the Brain Sciences Institute at Swinburne University in Australia, followed by a postdoctoral fellowship in the Department of Radiology at West Virginia University.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Description of research goes here.
+Current projects:• Social DiscountingIsabella Lalena, Morgan DeHart
+Goals
+Interested in Participating?
+• Reward DevaluationLindsay Shaffer, Jonathan Schneider, Matthew Olimb
+Goals
+Interested in Participating?
+• Social RewardEslam Hassan, Matthew Olimb
+Goals
+Interested in Participating?
+Past projects:• Temporal Dynamics of the Neural Representation of Social RelationshipsHumans can rapidly encode information from faces to support social judgments andfacilitate interactions with others.</description>
+    </item>
+    
   </channel>
 </rss>
