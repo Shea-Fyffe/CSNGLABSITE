@@ -19,7 +19,7 @@ more details.
 For Questions regarding the package please reach out to the authors:
 
   - Matthew Olimb (<molimb@masonlive.gmu.edu>)
-  - Colleen Gerrity (<mailto:cgerrit@masonlive.gmu.edu>)
+  - Colleen Gerrity (<cgerrit@masonlive.gmu.edu>)
 
 ### All other inquiries
 
